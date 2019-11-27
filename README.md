@@ -1,2 +1,2 @@
 # seabuttle
-client/server game see buttle
+client/server game see battle
